@@ -1,0 +1,7 @@
+.kartya{
+    border: 2px solid salmon;
+    border-radius: 20px;
+    margin: 5px;
+    background-color: rgba(250, 128, 114, 0.457);
+    padding: 20px;
+}
